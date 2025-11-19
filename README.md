@@ -1,2 +1,3 @@
 # FPGA-PS2A
-FPGA accelerator for sDTW for DNA sequencing
+This is an FPGA accelerator for sDTW in DNA sequencing.
+The manuscript has been submitted to DAC'26.
